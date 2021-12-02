@@ -1,1 +1,1 @@
-# brownian-dynamics
+# Brownian Dynamics
